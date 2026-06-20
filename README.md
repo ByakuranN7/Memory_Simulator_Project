@@ -1,8 +1,14 @@
 # MH Simulator
 
-Simulador de hierarquia de memória baseado na arquitetura MIPS, desenvolvido em C.
+Simulador de hierarquia de memória baseado na arquitetura MIPS, desenvolvido em C. Implementado originalmente em 2020 durante minha formação acadêmica.
 
 O projeto realiza a simulação de mecanismos de memória utilizados em arquiteturas modernas, permitindo acompanhar a execução de instruções e o comportamento dos componentes internos do sistema em tempo real através de uma interface textual.
+
+## Histórico
+
+Projeto implementado originalmente em 2020 durante minha formação acadêmica.
+
+O código foi posteriormente publicado como parte do meu portfólio pessoal, preservando a implementação original de conceitos relacionados à arquitetura de computadores, gerenciamento de memória e sistemas de cache.
 
 ## Funcionalidades
 
